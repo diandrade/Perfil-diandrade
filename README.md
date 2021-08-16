@@ -11,8 +11,8 @@
   <div>
    <hr>
    <a href="https://github.com/diandrade">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=diandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diandrade&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=diandrade&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diandrade&layout=compact&langs_count=7&theme=gruvbox"/>
    <hr>
 </div>
   
