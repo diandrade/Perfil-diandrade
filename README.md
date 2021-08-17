@@ -1,6 +1,6 @@
 ## Prazer! 👋 me chamo Diego Andrade 
  
-  ° 💻 Atualmente estou cursando Oracle Alura Next Education para me aprofundar em <strong>Html/Css, Java e Javascript.</strong>
+  ° 💻 Atualmente estou cursando Oracle Alura Next Education para me aperfeiçoar em <strong>Html/Css, Java e Javascript.</strong>
 
   ° 💼 Buscando oportunidades para inicio de carreira (<strong>Desenvolvedor Junior, Desenvolvedor Java Junior, Desenvolvedor Front-end Junior</strong>).
 
