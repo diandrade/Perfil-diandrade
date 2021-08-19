@@ -25,7 +25,7 @@
   <img align="center" alt="Diego-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Diego-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
   <img align="center" alt="Diego-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  <img align="right" alt="Diego-gif" height="158" width="250" src="https://media2.giphy.com/media/lkYTniLelesrC/giphy.gif?cid=790b76113f79d2dee4cd85b302823931f3ecae2e90fecffc&rid=giphy.gif&ct=g">
+  <img align="right" alt="Diego-gif" height="158" width="250" src="https://media2.giphy.com/media/GRthfpAwOqcoM/giphy.gif?cid=ecf05e47p0scqrvm63z5j1jobz85ufubun6og9wai5lhr8lo&rid=giphy.gif&ct=g">
 </div>
   
   ##
