@@ -13,6 +13,7 @@
    <a href="https://github.com/diandrade">
    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=diandrade&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diandrade&layout=compact&langs_count=7&theme=ayu-mirage"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=diandrade&layout=compact&bg_color=FFEBCD&text_color=4F4F4F&hide_border=true(https://github.com/anuraghazra/github-readme-stats)"  />
    <hr>
 </div>
   
